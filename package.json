@@ -1,0 +1,15 @@
+{
+  "name": "http-nodejs",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Sebastián García (@SGarcia710)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "0.19.2",
+    "body": "5.1.0",
+    "formidable": "1.2.2"
+  }
+}
